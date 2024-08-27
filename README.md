@@ -10,8 +10,16 @@ As a beginner, I am eager to expand my skills and knowledge in software developm
 
 Feel free to check out my works and connect with me!
 
+## GitHub Stats
+
+![Srijoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=srijonichakraborty&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijonichakraborty&layout=compact&theme=radical)
+
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srijonichakraborty/)](https://www.linkedin.com/in/srijonichakraborty/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/srijonichakraborty)](https://github.com/srijonichakraborty)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chakrabortysrijoni@gmail.com)](mailto:chakrabortysrijoni@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=srijonichakraborty&color=blue)
