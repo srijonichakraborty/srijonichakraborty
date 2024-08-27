@@ -1,7 +1,6 @@
 # Hi there! 👋
 
-![Coding Banner](https://i.pinimg.com/564x/28/3b/7d/283b7d4ba51e2674d0b192b26353bc28.jpg)
-
+![Header](./github-header-image.png)
 I'm **Srijoni Chakraborty**, a *4th year B.Tech student* majoring in **Information Technology** at **MCKV Institute of Engineering**. I am passionate about learning and growing in the tech field, especially in **Web Development and Data Analytics**.
 
 As a newbie in this tech world, I am eager to expand my skills and knowledge in software development, and I enjoy tackling challenges that allow me to learn and adapt. I am currently exploring various technologies like **Java**, **Python**, **HTML**, **CSS**, **JavaScript**, **ReactJS**, and **NodeJS**.
