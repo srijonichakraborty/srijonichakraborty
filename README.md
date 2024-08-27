@@ -2,7 +2,7 @@
 
 ![Coding Banner](https://i.pinimg.com/564x/8b/ec/25/8bec25f0003d1667fa5b18109302a105.jpg)
 
-I'm **Srijoni Chakraborty**, a fourth-year B.Tech student majoring in Information Technology at MCKV Institute of Engineering. I am passionate about learning and growing in the tech field, especially in Web Development and Data Analytics.
+I'm **Srijoni Chakraborty**, a 4th year B.Tech student majoring in Information Technology at MCKV Institute of Engineering. I am passionate about learning and growing in the tech field, especially in Web Development and Data Analytics.
 
 As a beginner, I am eager to expand my skills and knowledge in software development, and I enjoy tackling challenges that allow me to learn and adapt. I am currently exploring various technologies like Java, Python, HTML, CSS, JavaScript, ReactJS, and NodeJS.
 
