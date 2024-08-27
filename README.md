@@ -12,8 +12,6 @@ Feel free to check out my works and connect with me!
 
 ## GitHub Stats
 
-![Srijoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=srijonichakraborty&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijonichakraborty&layout=compact&theme=radical)
 
 ## Connect with me
