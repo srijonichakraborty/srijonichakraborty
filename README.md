@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-![Coding Banner](https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDEzfHxjb2RlfGVufDB8fHx8MTY5MzQ0MzY2NQ&ixlib=rb-1.2.1&q=80&w=1080) <!-- A coding-related image from Unsplash -->
+![Coding Banner]([https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDEzfHxjb2RlfGVufDB8fHx8MTY5MzQ0MzY2NQ&ixlib=rb-1.2.1&q=80&w=1080](https://i.pinimg.com/736x/5a/86/4c/5a864c4b7027008c01518716b783f0d6.jpg)) 
 
 I'm **Srijoni Chakraborty**, a fourth-year B.Tech student majoring in Information Technology at MCKV Institute of Engineering. I am passionate about learning and growing in the tech field, especially in Web Development and Data Analytics.
 
