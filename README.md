@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-![Coding Banner](https://i.pinimg.com/564x/8b/ec/25/8bec25f0003d1667fa5b18109302a105.jpg)
+![Coding Banner](https://i.pinimg.com/564x/28/3b/7d/283b7d4ba51e2674d0b192b26353bc28.jpg)
 
 I'm **Srijoni Chakraborty**, a *4th year B.Tech student* majoring in **Information Technology** at **MCKV Institute of Engineering**. I am passionate about learning and growing in the tech field, especially in **Web Development and Data Analytics**.
 
