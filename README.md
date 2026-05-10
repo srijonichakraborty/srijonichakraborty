@@ -2,6 +2,8 @@
 
 ## Hi, I'm Srijoni Chakraborty 👋
 
+---
+
 🎯 1.4 years of hands-on experience in **Manual & Automation Testing** across Web, Android, and iOS platforms for live CRM products.
 
 🧪 Skilled in **Functional, Regression, Smoke, Sanity, UI, and Exploratory Testing** within Agile environments.
@@ -26,18 +28,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijonichakraborty&layout=compact&theme=radical)
 
 ---
-
-## Connect with me
-
-<a href="https://www.linkedin.com/in/srijonichakraborty/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
-</a>
-<a href="https://github.com/srijonichakraborty" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white">
-</a>
-<a href="mailto:chakrabortysrijoni@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white">
-</a>
 
 ## Connect with me
 
