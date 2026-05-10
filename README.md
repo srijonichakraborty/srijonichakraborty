@@ -29,6 +29,18 @@
 
 ## Connect with me
 
+<a href="https://www.linkedin.com/in/srijonichakraborty/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
+</a>
+<a href="https://github.com/srijonichakraborty" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white">
+</a>
+<a href="mailto:chakrabortysrijoni@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white">
+</a>
+
+## Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srijonichakraborty/)](https://www.linkedin.com/in/srijonichakraborty/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/srijonichakraborty)](https://github.com/srijonichakraborty)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chakrabortysrijoni@gmail.com)](mailto:chakrabortysrijoni@gmail.com)
