@@ -1,22 +1,34 @@
-# Hi there! 👋
-
+## Hi, I'm Srijoni Chakraborty 👋
 ![Header](./github-header-image.png)
-I'm **Srijoni Chakraborty**, a *4th year B.Tech student* majoring in **Information Technology** at **MCKV Institute of Engineering**. I am passionate about learning and growing in the tech field, especially in **Web Development and Data Analytics**.
+**QA Analyst | Automation Enthusiast | Aspiring SDET**
 
-As a newbie in this tech world, I am eager to expand my skills and knowledge in software development, and I enjoy tackling challenges that allow me to learn and adapt. I am currently exploring various technologies like **Java**, **Python**, **HTML**, **CSS**, **JavaScript**, **ReactJS**, and **NodeJS**.
+🎯 1.4 years of hands-on experience in **Manual & Automation Testing** across Web, Android, and iOS platforms for live CRM products.
 
-*I believe in continuous learning and am always looking for opportunities to improve myself*. 
+🧪 Skilled in **Functional, Regression, Smoke, Sanity, UI, and Exploratory Testing** within Agile environments.
 
-Feel free to check out my works and connect with me!
+🤖 Built a **Playwright (JavaScript)** automation suite using **Page Object Model (POM)** — 65+ test scenarios covering Login, Dashboard, Navigation, and critical business workflows.
+
+🛠️ Tools & Tech I work with:
+- **Testing:** Playwright, Postman, TestLink, Zoho Sprints
+- **Languages:** JavaScript, Java (fundamentals), SQL
+- **Practices:** Agile, STLC, BDD (learning), POM
+
+📂 Currently exploring **Selenium with Java** and **Cucumber/BDD frameworks** to deepen automation architecture skills.
+
+🚀 Open to **QA | SDET | Automation Testing** roles. Immediate joiner.
+
+📫 Reach me: chakrabortysrijoni@gmail.com
+
+---
 
 ## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijonichakraborty&layout=compact&theme=radical)
+
+---
 
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srijonichakraborty/)](https://www.linkedin.com/in/srijonichakraborty/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/srijonichakraborty)](https://github.com/srijonichakraborty)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chakrabortysrijoni@gmail.com)](mailto:chakrabortysrijoni@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=srijonichakraborty&color=blue)
