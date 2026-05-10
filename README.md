@@ -1,6 +1,6 @@
-## Hi, I'm Srijoni Chakraborty 👋
 ![Header](./github-header-banner.png)
-**QA Analyst | Automation Enthusiast | Aspiring SDET**
+
+## Hi, I'm Srijoni Chakraborty 👋
 
 🎯 1.4 years of hands-on experience in **Manual & Automation Testing** across Web, Android, and iOS platforms for live CRM products.
 
